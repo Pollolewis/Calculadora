@@ -1,0 +1,38 @@
+<div>
+    <input id="Num1" type="text" /></br>
+    <input id="Num2" type="text" /></br>
+    <input type="button" value="Sum" onclick="Sum()" />
+</div>
+
+<script>
+
+function Sum()
+{
+    var num1Text = document.getElementById("Num1").value;
+    var num2Text =  document.getElementById("Num2").value;
+
+    var num1 = GetNumber(num1Text);    
+    var num2 = GetNumber(num2Text);
+
+    var suma = num1 + num2;
+
+    alert(suma);
+}
+
+function GetNumber(text)
+{
+    text = text.replace(",", ".");
+
+    if(isNaN(text))
+    {
+        var msg = "El texto "+text+" tiene un formato de número incorrecto.";
+        alert(msg)
+        throw new Exception(msg);
+    }
+    else
+    {
+        return  text *1;        
+    }
+}
+
+</script>
