@@ -59,6 +59,7 @@ namespace WpfApp1
                         var num2Text = document.getElementById("Num2").value;*/
 
             var num1Text = Num1.Text;
+            var num1 = 0.0;
 
             try
             {
@@ -71,10 +72,11 @@ namespace WpfApp1
             }
 
             var num2Text = Num2.Text;
+            var num2 = 0.0;
 
             try
             {
-                var num2 = GetNumber(num2Text);
+                num2 = GetNumber(num2Text);
             }
             catch (Exception e1)
             {
