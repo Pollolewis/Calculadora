@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Dev\Calc\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\
+C:\Dev\Calc\WpfApp1_solution\WpfApp1\obj\Debug\netcoreapp3.0\
 WpfApp1
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
-C:\Dev\Calc\WpfApp1\WpfApp1\App.xaml
+C:\Dev\Calc\WpfApp1_solution\WpfApp1\App.xaml
 11151548125
 
 3184212380
 192-1037106189
 MainWindow.xaml;
 
-True
+False
 

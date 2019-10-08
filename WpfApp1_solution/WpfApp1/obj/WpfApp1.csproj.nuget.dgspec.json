@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\Dev\\Calc\\WpfApp1_solution\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\Dev\\Calc\\WpfApp1_solution\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\Dev\\Calc\\WpfApp1_solution\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "C:\\Dev\\Calc\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "C:\\Dev\\Calc\\WpfApp1_solution\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\formacio\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Calc\\WpfApp1\\WpfApp1\\obj\\",
+        "outputPath": "C:\\Dev\\Calc\\WpfApp1_solution\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\formacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
