@@ -63,7 +63,7 @@ namespace WpfApp1
 
             try
             {
-                var num1 = GetNumber(num1Text);
+                num1 = GetNumber(num1Text);
             }
             catch (Exception e1)
             {
